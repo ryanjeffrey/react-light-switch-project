@@ -1,2 +1,2 @@
 # react-light-switch-project
-Created with CodeSandbox
+This is a React project where we used Stateful Components to render a functional light switch. Part of the Skillcrush Front End Developer + React bootcamp.
